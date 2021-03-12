@@ -153,7 +153,7 @@ text-align: left;
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #081a32;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -232,7 +232,7 @@ text-align: left;
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #081a32;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -341,33 +341,33 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #1D809F;
+  background-color: #081a32;
   transition: background-color 0.15s ease-in-out;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 
 footer.footer .social-link:hover {
-  background-color: #155d74;
+  background-color: #081a32;
   text-decoration: none;
 }
 
 a {
-  color: #1D809F;
+  color: #081a32;
 }
 
 a:hover, a:focus, a:active {
-  color: #155d74;
+  color: #081a32;
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #081a32 !important;
+  border-color: #081a32 !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #155d74 !important;
-  border-color: #155d74 !important;
+  background-color: #081a32 !important;
+  border-color: #081a32 !important;
 }
 
 .btn-secondary {
@@ -391,11 +391,11 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #1D809F !important;
+  background-color: #081a32 !important;
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #081a32 !important;
 }
 
 .text-secondary {
@@ -422,12 +422,12 @@ a:hover, a:focus, a:active {
 }
 
 .python {width: 90%; background-color: #4CAF50;} /* Green */
-.r-program {width: 80%; background-color: #2196F3;} /* Blue */
+.r-program {width: 60%; background-color: #2196F3;} /* Blue */
 .aws {width: 75%; background-color: #e97171;}
 .hadoop {width: 75%; background-color: #f44336;} /* Red */
-.tb {width: 70%; background-color: #808080;} /* Dark Grey */
+.tb {width: 80%; background-color: #808080;} /* Dark Grey */
 .sql {width: 90%; background-color: orange;} /* Dark Grey */
-.ml {width: 90%; background-color: rgb(0, 255, 242);} /* Dark Grey */
+.ml {width: 75%; background-color: rgb(0, 255, 242);} /* Dark Grey */
 
 .color{
   color: black;
